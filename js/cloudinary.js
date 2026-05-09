@@ -1,7 +1,7 @@
 // js/cloudinary.js
 // Handles image upload to Cloudinary
 
-const CLOUD_NAME    = "dqnlm0ej5";
+const CLOUD_NAME    = "r5tja05h";
 const UPLOAD_PRESET = "r5tja05h";
 const UPLOAD_URL    = `https://api.cloudinary.com/v1_1/${CLOUD_NAME}/image/upload`;
 
